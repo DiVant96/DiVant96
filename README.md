@@ -13,7 +13,7 @@
 
 💻 I’m currently working on: fullstack JavaScript
 
-🌱 I’m currently learning Software Development
+🌱 I’m currently learning: Software Development
 
 
 ## Contact:
